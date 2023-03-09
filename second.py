@@ -1,6 +1,6 @@
 import random
 
 ls = []
-for i in range(3):
-    ls.append(random.randint(5, 15))
+for i in range(13):
+    ls.append(random.randint(5, 300))
 print(ls)
